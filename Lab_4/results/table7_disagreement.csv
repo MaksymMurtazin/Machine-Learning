@@ -1,0 +1,4 @@
+﻿Об'єкт,Джерело,Справжній клас,Decision Tree,Random Forest,XGBoost
+#406,тест,1,1,1,3
+#188,train (out-of-fold),1,5,3,3
+#288,train (out-of-fold),1,1,1,3
